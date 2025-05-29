@@ -1,0 +1,107 @@
+{
+  "id_tag": "TRIAL_001",
+  "tick_rate": 0.2,
+  "tick_log": [
+    {
+      "tick": 1,
+      "phase": 0.2
+    },
+    {
+      "tick": 2,
+      "phase": 0.4
+    },
+    {
+      "tick": 3,
+      "phase": 0.6
+    },
+    {
+      "tick": 4,
+      "phase": 0.8
+    },
+    {
+      "tick": 5,
+      "phase": 0.0
+    },
+    {
+      "tick": 6,
+      "phase": 0.2
+    },
+    {
+      "tick": 7,
+      "phase": 0.4
+    },
+    {
+      "tick": 8,
+      "phase": 0.6
+    },
+    {
+      "tick": 9,
+      "phase": 0.8
+    },
+    {
+      "tick": 10,
+      "phase": 0.0
+    },
+    {
+      "tick": 11,
+      "phase": 0.2
+    },
+    {
+      "tick": 12,
+      "phase": 0.4
+    },
+    {
+      "tick": 13,
+      "phase": 0.6
+    },
+    {
+      "tick": 14,
+      "phase": 0.8
+    },
+    {
+      "tick": 15,
+      "phase": 0.0
+    },
+    {
+      "tick": 16,
+      "phase": 0.2
+    },
+    {
+      "tick": 17,
+      "phase": 0.4
+    },
+    {
+      "tick": 18,
+      "phase": 0.6
+    },
+    {
+      "tick": 19,
+      "phase": 0.8
+    },
+    {
+      "tick": 20,
+      "phase": 0.0
+    },
+    {
+      "tick": 21,
+      "phase": 0.2
+    },
+    {
+      "tick": 22,
+      "phase": 0.4
+    },
+    {
+      "tick": 23,
+      "phase": 0.6
+    },
+    {
+      "tick": 24,
+      "phase": 0.8
+    },
+    {
+      "tick": 25,
+      "phase": 0.0
+    }
+  ],
+  "final_phase": 0.0
+}
